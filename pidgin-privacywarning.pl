@@ -64,8 +64,6 @@ sub conversation_created_handler {
 
             if ($privacy_message ne "")
             {
-                Purple::Debug::info("privacywarning", "conversation_created_handler() - message is:  $privacy_message");
-
                 $conversation->get_im_data()->send($privacy_message);
             }    
         }
