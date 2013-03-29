@@ -1,8 +1,8 @@
 pidgin-privacywarning
 =====================
 
-Pidgin plugin for sending privacy notification message when conversation started
+Pidgin plugin that starts conversations with a privacy warning for networks sniffed internally.
 
 
-Some companies listen IM traffic and recorded, so i wrote this plugin for notify users this conversation may recorded.
+
 
