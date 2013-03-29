@@ -10,7 +10,7 @@ use HTML::Entities;
 	summary => "Perl plugin that provides send privacy notifications to user.",
 	description => "Send privacy warning." ,
 	author => "Timu Eren (selamtux\@gmail.com)",
-	url => "http://github.com/selam/sendprivacy",
+	url => "http://github.com/selam/pidgin-privacywarning",
 	load => "plugin_load",
 	unload => "plugin_unload",
 	prefs_info => "prefs_info_handler"
